@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>GED</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5bb5db" />
+      <stop offset="1" stop-color="#2f88bb" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0d5ec9" />
+  <path d="M17 28 32 17l15 11-15 11Z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="4" />
+  <path d="M17 36 32 47l15-11" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" />
+  <path d="M25 33.5 32 39l7-5.5" fill="none" stroke="#a9d9ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" />
+</svg>
