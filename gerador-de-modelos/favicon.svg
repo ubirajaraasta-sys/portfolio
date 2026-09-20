@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Gerador de Modelos Normativos">
   <rect width="64" height="64" rx="16" fill="#0d5ec9"/>
-  <path d="M20 13h17l9 9v25H20z" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="4"/>
-  <path d="M37 13v10h9M25 34l6 6 11-12" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.33">
+    <path d="M10.67 58.67h37.33a5.33 5.33 0 0 0 5.33-5.33V18.67L40 5.33H16a5.33 5.33 0 0 0-5.33 5.33v10.67"/>
+    <path d="M37.33 5.33V16a5.33 5.33 0 0 0 5.33 5.33h10.67"/>
+    <path d="m8 40 5.33 5.33L24 34.67"/>
+  </g>
 </svg>
